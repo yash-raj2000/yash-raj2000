@@ -15,4 +15,4 @@
 ![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yash-raj2000&show_icons=true)
 
 <br>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=yash-raj2000.yash-raj2000)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=yash-raj2000.keshavcodex)
